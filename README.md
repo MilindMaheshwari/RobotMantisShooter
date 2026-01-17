@@ -1,4 +1,4 @@
-**MantisRobot - FRC Programming Bootcamp 2023!**
+# MantisRobot - FRC Programming Bootcamp 2023!
 
 A Programming bootcamp project to teach new developers how to program, wire, and debug a robot from scratch! Taught software, mechanical, and electrical fundamentals. 
 
